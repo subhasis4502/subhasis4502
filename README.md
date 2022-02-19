@@ -5,6 +5,11 @@
 ### <img alt="Visual Studio Code" width="40px" src="./img/Hi.gif" style="padding-right:10px;" /> Hello World <img alt="Visual Studio Code" width="40px" src="./img/Earth.gif" style="padding-left:10px;" />
 
 ## 🚀 I'm a Developer and Student! 
+* 👯 Interested in Open Source.
+* 🎓 Studying Electronics & Communication Engineering.
+* 🤔 Exploring latest technologies and developing useful web apps
+* 👋 I’m currently working on Android & Web Project
+* 🎯 2022 Goals: Contribute to more Open Source projects
 
 ## Connect with me: <img alt="Visual Studio Code" width="80px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" style="padding-right:10px;" />
 
