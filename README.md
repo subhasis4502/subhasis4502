@@ -1,4 +1,4 @@
-<img alt="Hello" width="80%" src="./img/hello.gif" />
+<img alt="Hello" width="600px" src="./img/hello.gif" />
 
 ## I'm Subhasis <img alt="Visual Studio Code" width="100px" src="./img/Developer.gif" style="padding-right:10px;" />
 
