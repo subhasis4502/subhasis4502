@@ -6,7 +6,7 @@
 
 ## 🚀 I'm a Developer and Student! 
 * 👯 Interested in Open Source.
-* 🎓 Studying Electronics & Communication Engineering.
+* 🎓 Studying Information Technology.
 * 🤔 Exploring latest technologies and developing useful web apps
 * 👋 I’m currently working on Android & Web Project
 * 🎯 2022 Goals: Contribute to more Open Source projects
