@@ -48,6 +48,7 @@
 <img align="left" alt="cpp" width="26px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" style="padding-right:10px;" />
 <img align="left" alt="c" width="26px" src="https://img.icons8.com/color/96/000000/c-programming.png" style="padding-right:10px;" />
 </br>
+</br>
 
 ### FRONTEND:
 
@@ -59,6 +60,7 @@
 <img align="left" alt="Material-ui" width="26px" src="https://img.icons8.com/color/48/000000/material-ui.png" style="padding-right:10px;" />
 <img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png" style="padding-right:10px;" />
 </br>
+</br>
 
 ### BACKEND:
 
@@ -69,6 +71,7 @@
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" style="padding-right:10px;" />
 <img align="left" alt="Postgradesql" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" style="padding-right:10px;" />
 <img align="left" alt="php" width="26px" src="https://img.icons8.com/nolan/96/php.png"" style="padding-right:10px;" />
+<br />
 <br />
 
 ### TOOLS:
