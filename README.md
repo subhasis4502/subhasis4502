@@ -51,6 +51,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="padding-right:10px;" />
+<img align="left" alt="pug" width="26px" src="./img/pug.png" style="padding-right:10px;" />
 <img align="left" alt="bootstrap" width="26px" src="https://img.icons8.com/color/96/000000/bootstrap.png" style="padding-right:10px;" />
 <img align="left" alt="Material-ui" width="26px" src="https://img.icons8.com/color/48/000000/material-ui.png" style="padding-right:10px;" />
 <img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png" style="padding-right:10px;" />
