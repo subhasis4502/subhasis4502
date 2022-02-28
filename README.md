@@ -29,6 +29,10 @@
 <a href="mailto:subhasis4502@gmail.com">
   <img align="left" alt=" Mail" width="30px" src="./img/gmail.png" />
 </a>
+&nbsp;&nbsp;
+<a href="https://discordapp.com/users/subhasis4502">
+  <img align="left" alt=" Discord" width="30px" src="./img/discord.png" />
+</a>
 
 <br>
 
@@ -71,3 +75,30 @@
 <img align="left" width="36px" src="https://img.icons8.com/cute-clipart/64/000000/canva.png" style="padding-right:10px;"/>
 <img align="left" width="36px" src="https://img.icons8.com/fluent/96/fa314a/adobe-photoshop.png" style="padding-right:10px;"/>
 <br />
+<br />
+
+## Top Languages
+![Top Languages of Subhasis](https://github-readme-stats.vercel.app/api/top-langs/?username=subhasis4502&layout=compact&langs_count=25)
+
+## ⭐ GitHub Stats
+ <img src="https://github-readme-stats.vercel.app/api?username=subhasis4502&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+
+
+<!-- ## 🏆 Github Profile Trophy
+ 
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=subhasis4502&theme=monokai&row=1&no-frame=true&no-bg=true/"> -->
+
+## 💯 Github Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhasis4502&theme=ayu-mirage)
+
+##  📈 Contribution Graph 
+ <table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhasis4502&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=subhasis4502&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
