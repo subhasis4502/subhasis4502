@@ -11,6 +11,8 @@
 - 🤔 Exploring latest technologies and developing useful web apps
 - 👋 I’m currently working on Android & Web Project
 - 🎯 2022 Goals: Contribute to more Open Source projects
+- 👨‍🔬 Experimenting with JS
+- 💬 Ask me something interesting
 
 ## Connect with me: <img alt="Visual Studio Code" width="80px" src="./img/Handshake.gif" style="padding-right:10px;" />
 
