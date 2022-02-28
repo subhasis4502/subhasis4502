@@ -31,6 +31,7 @@
 </a>
 
 <br>
+
 ## 💻 Languages and Tools:
 
 ### LANGUAGES:
@@ -64,9 +65,9 @@
 
 ### TOOLS:
 
-<img alt="Visual Studio Code" width="36px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img alt="Androidsudio" width="36px"  src="./img/android-studio.png"/>
-<img width="36px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-<img width="36px" src="https://img.icons8.com/cute-clipart/64/000000/canva.png"/>
-<img width="36px" src="https://img.icons8.com/fluent/96/fa314a/adobe-photoshop.png"/>
+<img align="left" alt="Visual Studio Code" width="36px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" style="padding-right:10px;"/>
+<img align="left" alt="Androidsudio" width="36px"  src="./img/android-studio.png" style="padding-right:10px;"/>
+<img align="left" width="36px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" style="padding-right:10px;"/>
+<img align="left" width="36px" src="https://img.icons8.com/cute-clipart/64/000000/canva.png" style="padding-right:10px;"/>
+<img align="left" width="36px" src="https://img.icons8.com/fluent/96/fa314a/adobe-photoshop.png" style="padding-right:10px;"/>
 <br />
