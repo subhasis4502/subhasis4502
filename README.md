@@ -15,19 +15,19 @@
 ## Connect with me: <img alt="Visual Studio Code" width="80px" src="./img/Handshake.gif" style="padding-right:10px;" />
 
 <a href="https://www.linkedin.com/in/subhasis4502/">
-  <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt=" Linkedin" width="30px" src="./img/linkedin.png" />
 </a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/subhasis4502">
-  <img align="left" alt="Priyadarshan Ghosh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Priyadarshan Ghosh | Twitter" width="30px" src="./img/twitter.png" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/subhasis4502">
-  <img align="left" alt=" GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt=" GitHub" width="30px" src="./img/github.png" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:subhasis4502@gmail.com">
-  <img align="left" alt=" Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt=" Mail" width="30px" src="./img/gmail.png" />
 </a>
 
 <br>
