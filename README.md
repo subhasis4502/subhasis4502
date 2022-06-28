@@ -1,8 +1,8 @@
 <img alt="hello" width="600px" src="./img/hello.gif" />
 
-## I'm Subhasis <img alt="developer" width="100px" src="./img/Developer.gif" style="padding-right:10px;" />
+## I'm Subhasis <img alt="developer" width="10%" src="./img/Developer.gif" style="padding-right:10px;" />
 
-### <img alt="handshake" width="40px" src="./img/Hi.gif" style="padding-right:10px;" /> Hello World <img alt="earth" width="40px" src="./img/Earth.gif" style="padding-left:10px;" />
+### <img alt="handshake" width="5%" src="./img/Hi.gif" style="padding-right:10px;" /> Hello World <img alt="earth" width="5%" src="./img/Earth.gif" style="padding-left:10px;" />
 
 ## 🚀 I'm a Developer and Student!
 
@@ -14,7 +14,7 @@
 - 👨‍🔬 Experimenting with JS
 - 💬 Ask me something interesting
 
-## Connect with me: <img alt="Visual Studio Code" width="80px" src="./img/Handshake.gif" style="padding-right:10px;" />
+## Connect with me: <img alt="Visual Studio Code" width="10%" src="./img/Handshake.gif" style="padding-right:10px;" />
 
 <a href="https://www.linkedin.com/in/subhasis4502/">
   <img align="left" alt=" Linkedin" width="30px" src="./img/linkedin.png" />
